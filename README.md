@@ -1,5 +1,5 @@
 <p style="text-align:center">
-    <img src="https://finkmoritz.github.io/img/profile-pic.jpg" height="200"/>
+    <img src="https://github.com/finkmoritz/finkmoritz/assets/images/profile.png" height="200"/>
 </p>
 
 <p style="text-align:center">
@@ -11,10 +11,10 @@
 <hr>
 
 <h1 style="text-align:center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Moritz</h1>
-<h3 style="text-align:center">Software Engineer | Flutter enthusiast</h3>
+<h3 style="text-align:center">Software Engineer | Eager Learner</h3>
 
 <p style="text-align:center">
-    <a href="https://www.linkedin.com/in/moritz-fink-648950192/" target="blank"><img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linked_in" height="30" width="30" /></a>  
+    <a href="https://www.linkedin.com/in/moritz-fink-648950192/" target="blank"><img src="https://github.com/finkmoritz/finkmoritz/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>  
 </p>
 
 <p style="text-align:center">
@@ -26,7 +26,15 @@
 </p>
 
 <p style="text-align:center">
-<img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+    <img height="50" src="https://github.com/finkmoritz/finkmoritz/assets/icons/flutter.svg">
+    <img height="50" src="https://github.com/finkmoritz/finkmoritz/assets/icons/dart.svg">
+    <img height="50" src="https://github.com/finkmoritz/finkmoritz/assets/icons/java.svg">
+    <img height="50" src="https://github.com/finkmoritz/finkmoritz/assets/icons/kotlin.svg">
+    <img height="50" src="https://github.com/finkmoritz/finkmoritz/assets/icons/aws.svg">
+    <img height="50" src="https://github.com/finkmoritz/finkmoritz/assets/icons/git.svg">
+    <img height="50" src="https://github.com/finkmoritz/finkmoritz/assets/icons/jenkins.svg">
+    <img height="50" src="https://github.com/finkmoritz/finkmoritz/assets/icons/javascript.svg">
+    <img height="50" src="https://github.com/finkmoritz/finkmoritz/assets/icons/qt.svg">
 </p>
 
 <hr>
