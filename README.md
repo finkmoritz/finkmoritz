@@ -14,12 +14,6 @@
 <h3 align="center">Software Engineer | Eager Learner</h3>
 
 <p align="center">
-    <img height="50" src="https://github.com/finkmoritz/finkmoritz/raw/main/assets/certificates/badge-psmi.svg">
-    <img height="50" src="https://github.com/finkmoritz/finkmoritz/raw/main/assets/certificates/badge-aws-cp.png">
-    <img height="50" src="https://github.com/finkmoritz/finkmoritz/raw/main/assets/certificates/badge-kmp1.png">
-</p>
-
-<p align="center">
     <a href="https://github.com/finkmoritz/" target="blank"><img src="https://github.com/finkmoritz/finkmoritz/raw/main/assets/icons/github.svg" alt="github" height="30" width="30" /></a>
     <a href="https://www.linkedin.com/in/moritz-fink-648950192/" target="blank"><img src="https://github.com/finkmoritz/finkmoritz/raw/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
 </p>
@@ -32,7 +26,13 @@
   </em> 
 </p>
 
-<p align="center" style="background-color: lightcyan">
+<p align="center">
+    <img height="75" src="https://github.com/finkmoritz/finkmoritz/raw/main/assets/certificates/badge-psmi.svg">
+    <img height="75" src="https://github.com/finkmoritz/finkmoritz/raw/main/assets/certificates/badge-aws-cp.png">
+    <img height="75" src="https://github.com/finkmoritz/finkmoritz/raw/main/assets/certificates/badge-kmp1.png">
+</p>
+
+<p align="center">
     <img height="50" src="https://github.com/finkmoritz/finkmoritz/raw/main/assets/icons/flutter.svg">
     <img height="50" src="https://github.com/finkmoritz/finkmoritz/raw/main/assets/icons/dart.svg">
     <img height="50" src="https://github.com/finkmoritz/finkmoritz/raw/main/assets/icons/java.svg">
