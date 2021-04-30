@@ -48,5 +48,5 @@
 
 <p align="center"><i><b>Git Stats</b></i></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=finkmoritz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="most used languages" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=finkmoritz&show_icons=true&locale=en&theme=chartreuse-dark" alt="stats" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=finkmoritz&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&hide=JavaScript,css" alt="most used languages" height="140" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=finkmoritz&show_icons=true&locale=en&theme=dark&count_private=true&hide=contribs" alt="stats" height="140" /></p>
