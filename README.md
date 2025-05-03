@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Flutter-blue" />
+    <img src="https://img.shields.io/badge/Focus-Java-blue" />
     <img src="https://img.shields.io/badge/Location-Munich,%20Germany-success" />
     <img src="https://img.shields.io/badge/Languages-German%20%26%20English-yellow" />
 </p>
@@ -11,24 +11,25 @@
 <hr>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Moritz</h1>
-<h3 align="center">Software Engineer | Eager Learner</h3>
+<h3 align="center">Software Architect</h3>
 
 <p align="center">
     <a href="https://github.com/finkmoritz/" target="blank"><img src="https://github.com/finkmoritz/finkmoritz/raw/main/assets/icons/github.svg" alt="github" height="30" width="30" /></a>
-    <a href="https://www.linkedin.com/in/moritz-fink-648950192/" target="blank"><img src="https://github.com/finkmoritz/finkmoritz/raw/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
 </p>
 
 <p align="center">
   <em>
-    I am a software developer from Munich. I have graduated with a Master degree of Computational Science at the University of Regensburg. 
-    Ever since my first <code>Hello World!</code>, I am passionate about programming. I have created highly parallelized Lattice Quantum Chromodynamics simulations for the QPACE3 supercomputer using specialized C++ libraries during my academic studies, as well as business applications using Java since I started my professional career. 
-    Additionally, I am building cross-platform applications in my spare time.
+    With my now 8 years of professional experience, I have already helped many clients achieve success through modern 
+and reliable software solutions. Although I have had the opportunity to work with a wide variety of technologies, 
+programming languages, frameworks, and tools, my main focus remains on backend applications within the Java ecosystem — 
+particularly Spring Boot microservices.
   </em> 
 </p>
 
 <p align="center">
     <img height="75" src="https://github.com/finkmoritz/finkmoritz/raw/main/assets/certificates/badge-psmi.svg">
     <img height="75" src="https://github.com/finkmoritz/finkmoritz/raw/main/assets/certificates/badge-aws-cp.png">
+    <img height="75" src="https://github.com/finkmoritz/finkmoritz/raw/main/assets/certificates/badge-devops.png">
     <img height="75" src="https://github.com/finkmoritz/finkmoritz/raw/main/assets/certificates/badge-kmp1.png">
 </p>
 
